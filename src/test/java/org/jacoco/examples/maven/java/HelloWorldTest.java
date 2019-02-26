@@ -11,6 +11,7 @@ public class HelloWorldTest {
 
 	@Before
 	public void setup() {
+
 		subject = new HelloWorld();
 	}
 	
